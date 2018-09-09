@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">reCaptcha Simples</string>
+    <string name="dialogue">"Opie - Bem pa, eu não tenho certeza se sou humano, afinal de contas. \n \nXerife Andy - É isso mesmo? É Opie muito triste. \n \nOpie - O que nós Eu estou com muito medo Eu não quero ser não humano pa \n \nO Xerife Andy - Bem ferver, filho.Toque no botão abaixo e nós vamos encontrar a resposta para isso muito rápido. \n \nOpie - Ok Pa. "</string>
+    <string name="btn_check_human">Opie, você é humano?</string>
+</resources>
